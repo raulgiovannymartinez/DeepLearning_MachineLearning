@@ -1,5 +1,3 @@
-## Dataset Source
-https://www.kaggle.com/c/titanic
+## Overview
+Repository to aggregate the kaggle datasets I have worked with for fun
 
-## Credit
-LinkedIn Learning - Applied Machine Learning Algorithms
